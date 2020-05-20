@@ -1,0 +1,705 @@
+{
+    "list":[
+        
+        {
+            "XXGP_sname": "北方稀土",
+            "gpperate": "2.44%",
+            "morder": "108",
+            "per": "19.70",
+            "code": "sh600111"
+        },
+        {
+            "XXGP_sname": "苏博特",
+            "gpperate": "3.06%",
+            "morder": "70",
+            "per": "12.46",
+            "code": "sh603916"
+        },
+        
+        {
+            "order": "11",
+            "XXGP_sname": "大港股份",
+            "code": "sz002077",
+            "gpperate": "9.99%",
+            "morder": "10",
+            "per": "22.58"
+            
+        },
+        {
+            "order": "12",
+            "XXGP_sname": "湘邮科技",
+            "code": "sh600476",
+            "gpperate": "9.98%",
+            "morder": "11",
+            "per": "6.83"
+            
+        },
+        {
+            "order": "13",
+            "XXGP_sname": "东方能源",
+            "code": "sz000958",
+            "gpperate": "9.97%",
+            "morder": "12",
+            "per": "854.5"
+            
+        },
+        {
+            "order": "17",
+            "XXGP_sname": "迪贝电气",
+            "code": "sh603320",
+            "gpperate": "8.42%",
+            "morder": "16",
+            "per": "25.72"
+            
+        },
+        {
+            "order": "18",
+            "XXGP_sname": "森远股份",
+            "code": "sz300210",
+            "gpperate": "7.23%",
+            "morder": "17",
+            "per": "4.35"
+            
+        },
+        {
+            "order": "19",
+            "XXGP_sname": "长江通信",
+            "code": "sh600345",
+            "gpperate": "7.10%",
+            "morder": "18",
+            "per": "16.74"
+            
+        },
+        {
+            "XXGP_sname": "东风汽车",
+            "gpperate": "5.77%",
+            "morder": "25",
+            "per": "5.13",
+            "code": "sh600006"
+        },
+        {
+            "XXGP_sname": "普莱柯",
+            "gpperate": "5.48%",
+            "morder": "26",
+            "per": "12.70",
+            "code": "sh603566"
+        },
+        {
+            "XXGP_sname": "威派格",
+            "gpperate": "5.30%",
+            "morder": "27",
+            "per": "19.07",
+            "code": "sh603956"
+        },
+        {
+            "XXGP_sname": "弘业股份",
+            "gpperate": "5.20%",
+            "morder": "28",
+            "per": "8.70",
+            "code": "sh600128"
+        },
+        {
+            "XXGP_sname": "东方材料",
+            "gpperate": "5.18%",
+            "morder": "29",
+            "per": "14.82",
+            "code": "sh603110"
+        },
+        {
+            "XXGP_sname": "合力科技",
+            "gpperate": "5.17%",
+            "morder": "30",
+            "per": "12.62",
+            "code": "sh603917"
+        },
+        {
+            "XXGP_sname": "珀莱雅",
+            "gpperate": "3.01%",
+            "morder": "72",
+            "per": "63.00",
+            "code": "sh603605"
+        },
+        {
+            "XXGP_sname": "亚翔集成",
+            "gpperate": "3.04%",
+            "morder": "71",
+            "per": "19.31",
+            "code": "sh603929"
+        },
+        {
+            "XXGP_sname": "生物股份",
+            "gpperate": "3.22%",
+            "morder": "66",
+            "per": "15.05",
+            "code": "sh600201"
+        },
+        {
+            "XXGP_sname": "全柴动力",
+            "gpperate": "3.21%",
+            "morder": "67",
+            "per": "15.75",
+            "code": "sh600218"
+        },
+        {
+            "XXGP_sname": "万东医疗",
+            "gpperate": "3.15%",
+            "morder": "68",
+            "per": "10.80",
+            "code": "sh600055"
+        },
+        {
+            "XXGP_sname": "美诺华",
+            "gpperate": "3.10%",
+            "morder": "69",
+            "per": "23.28",
+            "code": "sh603538"
+        },
+        {
+            "XXGP_sname": "ST慧球",
+            "gpperate": "2.73%",
+            "morder": "85",
+            "per": "7.90",
+            "code": "sh600556"
+        },
+        {
+            "XXGP_sname": "派思股份",
+            "gpperate": "2.71%",
+            "morder": "86",
+            "per": "24.65",
+            "code": "sh603318"
+        },
+        {
+            "XXGP_sname": "元成股份",
+            "gpperate": "2.68%",
+            "morder": "87",
+            "per": "10.35",
+            "code": "sh603388"
+        },
+        {
+            "XXGP_sname": "天坛生物",
+            "gpperate": "2.68%",
+            "morder": "88",
+            "per": "25.68",
+            "code": "sh600161"
+        },
+        {
+            "XXGP_sname": "贵州燃气",
+            "gpperate": "2.99%",
+            "morder": "73",
+            "per": "18.24",
+            "code": "sh600903"
+        },
+        
+        {
+            "order" : "4",
+            "XXGP_sname" : "网达软件",
+            "code" : "sh603189",
+            "gpperate" : "10.06%",
+            "morder" : "3",
+            "per" : "8.97"
+        },
+        
+        {
+            "XXGP_sname": "再升科技",
+            "gpperate": "3.53%",
+            "morder": "59",
+            "per": "7.04",
+            "code": "sh603601"
+        },
+        {
+            "XXGP_sname": "宁波水表",
+            "gpperate": "3.45%",
+            "morder": "60",
+            "per": "24.00",
+            "code": "sh603700"
+        },
+        {
+            "XXGP_sname": "福莱特",
+            "gpperate": "3.41%",
+            "morder": "61",
+            "per": "10.31",
+            "code": "sh601865"
+        },
+        {
+            "XXGP_sname": "节能风电",
+            "gpperate": "2.60%",
+            "morder": "90",
+            "per": "2.76",
+            "code": "sh601016"
+        },
+        {
+            "XXGP_sname": "中远海能",
+            "gpperate": "2.59%",
+            "morder": "91",
+            "per": "5.94",
+            "code": "sh600026"
+        },
+        {
+            "XXGP_sname": "龙净环保",
+            "gpperate": "2.55%",
+            "morder": "92",
+            "per": "12.06",
+            "code": "sh600388"
+        },
+        {
+            "order": "9",
+            "XXGP_sname": "北京君正",
+            "code": "sz300223",
+            "gpperate": "9.99%",
+            "morder": "8",
+            "per": "17.06"
+            
+        },
+        {
+            "XXGP_sname": "安信信托",
+            "gpperate": "3.34%",
+            "morder": "62",
+            "per": "5.26",
+            "code": "sh600816"
+        },
+        
+        {
+            "XXGP_sname": "金徽酒",
+            "gpperate": "3.26%",
+            "morder": "64",
+            "per": "14.27",
+            "code": "sh603919"
+        },
+        {
+            "XXGP_sname": "天龙股份",
+            "gpperate": "3.22%",
+            "morder": "65",
+            "per": "15.40",
+            "code": "sh603266"
+        },
+        
+        {
+            "order": "20",
+            "XXGP_sname": "丰乐种业",
+            "code": "sz000713",
+            "gpperate": "7.09%",
+            "morder": "19",
+            "per": "4.68"
+            
+        },
+        {
+            "order": "21",
+            "XXGP_sname": "天龙光电",
+            "code": "sz300029",
+            "gpperate": "6.94%",
+            "morder": "20",
+            "per": "6.69"
+            
+        },
+        {
+            "order": "23",
+            "XXGP_sname": "景嘉微",
+            "code": "sz300474",
+            "gpperate": "6.77%",
+            "morder": "22",
+            "per": "14.20"
+            
+        },
+        {
+            "order": "24",
+            "XXGP_sname": "科融环境",
+            "code": "sz300152",
+            "gpperate": "6.42%",
+            "morder": "23",
+            "per": "5.62"
+            
+        },
+        {
+            "order": "25",
+            "XXGP_sname": "中元股份",
+            "code": "sz300018",
+            "gpperate": "6.24%",
+            "morder": "24",
+            "per": "6.25"
+            
+        },
+        
+        {
+            "XXGP_sname": "ST坊展",
+            "gpperate": "5.04%",
+            "morder": "31",
+            "per": "5.63",
+            "code": "sh600149"
+        },
+        {
+            "XXGP_sname": "ST正源",
+            "gpperate": "5.03%",
+            "morder": "32",
+            "per": "1.88",
+            "code": "sh600321"
+        },
+        {
+            "XXGP_sname": "利通电子",
+            "gpperate": "5.00%",
+            "morder": "33",
+            "per": "30.44",
+            "code": "sh603629"
+        },
+        {
+            "XXGP_sname": "ST岩石",
+            "gpperate": "4.99%",
+            "morder": "34",
+            "per": "7.37",
+            "code": "sh600696"
+        },
+        
+        {
+            "XXGP_sname": "东方时尚",
+            "gpperate": "4.58%",
+            "morder": "39",
+            "per": "16.88",
+            "code": "sh603377"
+        },
+        {
+            "XXGP_sname": "宏发股份",
+            "gpperate": "4.48%",
+            "morder": "40",
+            "per": "23.08",
+            "code": "sh600885"
+        },
+        {
+            "XXGP_sname": "大豪科技",
+            "gpperate": "4.28%",
+            "morder": "41",
+            "per": "10.23",
+            "code": "sh603025"
+        },
+        {
+            "XXGP_sname": "金晶科技",
+            "gpperate": "4.23%",
+            "morder": "42",
+            "per": "3.20",
+            "code": "sh600586"
+        },
+        {
+            "XXGP_sname": "方正证券",
+            "gpperate": "4.21%",
+            "morder": "43",
+            "per": "7.67",
+            "code": "sh601901"
+        },
+        {
+            "XXGP_sname": "龙韵股份",
+            "gpperate": "4.21%",
+            "morder": "44",
+            "per": "16.83",
+            "code": "sh603729"
+        },
+        {
+            "XXGP_sname": "玉龙股份",
+            "gpperate": "4.17%",
+            "morder": "45",
+            "per": "5.24",
+            "code": "sh601028"
+        },
+        {
+            "XXGP_sname": "易德龙",
+            "gpperate": "4.16%",
+            "morder": "46",
+            "per": "14.76",
+            "code": "sh603380"
+        },
+        {
+            "XXGP_sname": "华菱星马",
+            "gpperate": "4.16%",
+            "morder": "47",
+            "per": "5.26",
+            "code": "sh600375"
+        },
+        {
+            "XXGP_sname": "明阳智能",
+            "gpperate": "4.10%",
+            "morder": "48",
+            "per": "10.66",
+            "code": "sh601615"
+        },
+        {
+            "XXGP_sname": "歌力思",
+            "gpperate": "3.98%",
+            "morder": "49",
+            "per": "15.43",
+            "code": "sh603808"
+        },
+        {
+            "XXGP_sname": "上海凤凰",
+            "gpperate": "3.98%",
+            "morder": "50",
+            "per": "13.31",
+            "code": "sh600679"
+        },
+        {
+            "XXGP_sname": "新华文轩",
+            "gpperate": "3.98%",
+            "morder": "51",
+            "per": "12.79",
+            "code": "sh601811"
+        },
+        {
+            "XXGP_sname": "东风科技",
+            "gpperate": "3.95%",
+            "morder": "52",
+            "per": "12.12",
+            "code": "sh600081"
+        },
+        {
+            "XXGP_sname": "大名城",
+            "gpperate": "3.82%",
+            "morder": "53",
+            "per": "7.06",
+            "code": "sh600094"
+        },
+        {
+            "XXGP_sname": "ST安通",
+            "gpperate": "3.82%",
+            "morder": "54",
+            "per": "5.16",
+            "code": "sh600179"
+        },
+        {
+            "XXGP_sname": "畅联股份",
+            "gpperate": "3.69%",
+            "morder": "55",
+            "per": "11.25",
+            "code": "sh603648"
+        },
+        {
+            "XXGP_sname": "湘电股份",
+            "gpperate": "3.63%",
+            "morder": "56",
+            "per": "6.85",
+            "code": "sh600416"
+        },
+        {
+            "XXGP_sname": "汇顶科技",
+            "gpperate": "3.55%",
+            "morder": "57",
+            "per": "111.67",
+            "code": "sh603160"
+        },
+        {
+            "XXGP_sname": "欧派家居",
+            "gpperate": "3.54%",
+            "morder": "58",
+            "per": "111.18",
+            "code": "sh603833"
+        },
+        {
+            "XXGP_sname": "顾家家居",
+            "gpperate": "2.98%",
+            "morder": "74",
+            "per": "43.20",
+            "code": "sh603816"
+        },
+        {
+            "XXGP_sname": "天永智能",
+            "gpperate": "2.97%",
+            "morder": "75",
+            "per": "23.60",
+            "code": "sh603895"
+        },
+        {
+            "XXGP_sname": "有研新材",
+            "gpperate": "2.49%",
+            "morder": "96",
+            "per": "9.48",
+            "code": "sh600206"
+        },
+        
+        {
+            "XXGP_sname": "鸣志电器",
+            "gpperate": "2.90%",
+            "morder": "76",
+            "per": "12.42",
+            "code": "sh603728"
+        },
+        {
+            "XXGP_sname": "天味食品",
+            "gpperate": "2.84%",
+            "morder": "77",
+            "per": "32.60",
+            "code": "sh603317"
+        },
+        {
+            "XXGP_sname": "金域医学",
+            "gpperate": "2.82%",
+            "morder": "78",
+            "per": "32.50",
+            "code": "sh603882"
+        },
+        {
+            "XXGP_sname": "四方股份",
+            "gpperate": "4.91%",
+            "morder": "35",
+            "per": "6.20",
+            "code": "sh601126"
+        },
+        {
+            "XXGP_sname": "江苏新能",
+            "gpperate": "4.73%",
+            "morder": "36",
+            "per": "12.17",
+            "code": "sh603693"
+        },
+        {
+            "XXGP_sname": "中国汽研",
+            "gpperate": "4.70%",
+            "morder": "37",
+            "per": "7.80",
+            "code": "sh601965"
+        },
+        {
+            "XXGP_sname": "永冠新材",
+            "gpperate": "4.63%",
+            "morder": "38",
+            "per": "24.17",
+            "code": "sh603681"
+        },
+        {
+            "XXGP_sname": "老百姓",
+            "gpperate": "2.63%",
+            "morder": "89",
+            "per": "60.55",
+            "code": "sh603883"
+        },
+        
+        {
+            "XXGP_sname": "一汽富维",
+            "gpperate": "2.54%",
+            "morder": "93",
+            "per": "11.31",
+            "code": "sh600742"
+        },
+        {
+            "XXGP_sname": "西安银行",
+            "gpperate": "2.53%",
+            "morder": "94",
+            "per": "8.12",
+            "code": "sh600928"
+        },
+        {
+            "XXGP_sname": "新华网",
+            "gpperate": "2.52%",
+            "morder": "95",
+            "per": "21.12",
+            "code": "sh603888"
+        },
+        {
+            "XXGP_sname": "联明股份",
+            "gpperate": "2.47%",
+            "morder": "99",
+            "per": "12.04",
+            "code": "sh603006"
+        },
+        {
+            "XXGP_sname": "华域汽车",
+            "gpperate": "2.44%",
+            "morder": "100",
+            "per": "19.70",
+            "code": "sh600741"
+        },
+        {
+            "XXGP_sname": "上证指数",
+            "gpperate": "2.47%",
+            "morder": "101",
+            "per": "11.18",
+            "code": "sh000001"
+        },
+        {
+            "XXGP_sname": "创业板指",
+            "gpperate": "2.47%",
+            "morder": "103",
+            "per": "12.04",
+            "code": "sz399006"
+        },
+        {
+            "XXGP_sname": "深证成指",
+            "gpperate": "2.44%",
+            "morder": "102",
+            "per": "19.70",
+            "code": "sz399001"
+        },
+        {
+            "XXGP_sname": "横店影视",
+            "gpperate": "2.37%",
+            "morder": "97",
+            "per": "22.38",
+            "code": "sh603103"
+        },
+        {
+            "XXGP_sname": "嘉化能源",
+            "gpperate": "2.41%",
+            "morder": "98",
+            "per": "11.18",
+            "code": "sh600273"
+        },
+        {
+            "XXGP_sname": "汇得科技",
+            "gpperate": "2.80%",
+            "morder": "79",
+            "per": "26.43",
+            "code": "sh603192"
+        },
+        {
+            "XXGP_sname": "威尔药业",
+            "gpperate": "2.80%",
+            "morder": "80",
+            "per": "51.11",
+            "code": "sh603351"
+        },
+        {
+            "XXGP_sname": "中牧股份",
+            "gpperate": "2.80%",
+            "morder": "81",
+            "per": "12.10",
+            "code": "sh600195"
+        },
+        {
+            "XXGP_sname": "金杯汽车",
+            "gpperate": "2.78%",
+            "morder": "82",
+            "per": "4.06",
+            "code": "sh600609"
+        },
+        {
+            "XXGP_sname": "北汽蓝谷",
+            "gpperate": "2.76%",
+            "morder": "83",
+            "per": "8.93",
+            "code": "sh600733"
+        },
+        {
+            "XXGP_sname": "云南城投",
+            "gpperate": "2.73%",
+            "morder": "84",
+            "per": "3.01",
+            "code": "sh600239"
+        },
+        {
+            "XXGP_sname": "天风证券",
+            "gpperate": "3.32%",
+            "morder": "63",
+            "per": "8.10",
+            "code": "sh601162"
+        },
+        
+    ]
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
